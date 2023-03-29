@@ -1,0 +1,3 @@
+python/**/.exercism
+python/**/__pycache__
+.pytest_cache
